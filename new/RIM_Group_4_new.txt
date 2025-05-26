@@ -27,7 +27,7 @@ Renovation, reconstruction, and modernization with conversion from old to new �
 
 61-80 СТР. 
 
-HOW WE MANUFACTURE
+Production Process
 63 СТР. Production and Technical Department (PTD) 
 
 64 СТР.  Design Institute (DI) 
@@ -38,7 +38,7 @@ HOW WE MANUFACTURE
 
 79-81 СТР. warranty and post-warranty service
 
-82 - 85 СТР. portfolio of realized projects for 30 years
+82 - 85 СТР. portfolio of completed projects for 30 years
 
 
 5 страница
@@ -46,9 +46,9 @@ HOW WE MANUFACTURE
 commercial activities
 goods and services
 INDUSTRIAL FACILITIES CIVIL FACILITIES
-Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" as we produce
+Agricultural facilities Renovation, Reconstruction, and Modernization – Transition from Legacy Systems to “Smart” Solutions
 Production and Technical Department (PTD) , Design Institute (DI) , FACTORY, Construction and Installation Department (CID), warranty and post-warranty maintenance service
-portfolio of realized projects for 30 years
+portfolio of completed projects for 30 years
 
 
 6 страница
@@ -56,7 +56,7 @@ portfolio of realized projects for 30 years
 Teplostroyproyekt-S FACTORY
 The plant's production area covers more than 7,000 square meters. More than 100 units of state-of-the-art equipment are used in the manufacturing process.
 The plant carries out a wide range of operations
-The following are manufactured here: • stationary, automated block-modular and roof-mounted boiler houses with a capacity of up to 360 MW; • steam, fire-tube and water-heating boilers with a capacity of up to 60 MW, as well as accessories for them; • up to 20,000 tons of metal structures per year (welded metal structures for construction, industrial, and technological purposes, as well as storage equipment; • quickly erected modular houses up to 3 stories high and permanent hybrid buildings from -2 to 40 stories; • structures for civil construction, piles, mast and advertising structures, non-standard metal products in small and large series.
+The following are manufactured here: • stationary, automated block-modular and roof-mounted boiler houses with a capacity of up to 360 MW; • steam, fire-tube and water-heating boilers with a capacity of up to 60 MW, as well as accessories for them; • up to 20,000 tons of steel structures per year (welded steel structures for construction, industrial, and technological purposes, as well as storage equipment; • quickly erected modular houses up to 3 stories high and permanent hybrid buildings from -2 to 40 stories; • structures for civil construction, piles, mast and advertising structures, non-standard steel products in small and large series.
 
 7 страница
 
@@ -78,8 +78,8 @@ Ordinary plastic (PET) bottles are an excellent source of recycled material for 
 9 страница
 
 Waste processing factory
-A waste processing factory is designed for waste disposal and recycling. As a rule, such factories can be divided into two broad categories: Solid waste processing (metal, glass, paper, and plastic waste); Chemical processing.
-The most promising business area with the possibility of recycling various types of waste • Car tires – tires are decomposed by pyrolysis of synthetic oil, and the cord is sent to scrap metal collection points. • Glass – in recycled form, it is delivered to glass factories or ceramic manufacturing plants; • Plastic – in crushed form, it is remelted to produce granules used by companies that manufacture packaging containers, film, brooms, and car body parts; • Construction waste with residual elements of brick, concrete, wood, and metal is sorted and ground into gravel for use in road construction and other construction projects. • Waste paper is recycled to produce toilet paper, packaging paper, and roofing materials.
+A waste processing factory is designed for waste disposal and recycling. As a rule, such factories can be divided into two broad categories: Solid waste processing (steel, glass, paper, and plastic waste); Chemical processing.
+The most promising business area with the possibility of recycling various types of waste • Car tires – tires are decomposed by pyrolysis of synthetic oil, and the cord is sent to scrap steel collection points. • Glass – in recycled form, it is delivered to glass factories or ceramic manufacturing plants; • Plastic – in crushed form, it is remelted to produce granules used by companies that manufacture packaging containers, film, brooms, and car body parts; • Construction waste with residual elements of brick, concrete, wood, and steel is sorted and ground into gravel for use in road construction and other construction projects. • Waste paper is recycled to produce toilet paper, packaging paper, and roofing materials.
 
 10 страница
 
@@ -132,7 +132,7 @@ By mobility:
 
 Bitumen storage facilities
 Pit and above-ground bitumen storage facilities:
-Pit bitumen storage facilities are covered tanks with sloping or vertical side walls, consisting of one or more storage compartments. Above-ground bitumen storage tanks are freestanding vertical and horizontal metal tanks (with a capacity of 100 to 5,000 m3) manufactured in series in accordance with GOST 17032-71 and GOST 52910-2008. To ensure the operation of ground-based storage facilities, additional (reserve) capacity is required in the form of a drain tank, in which the bitumen is reheated to temperatures sufficient for pumping into the storage facility (when draining from railway tanks) or into the bitumen preparation workshop (when draining from storage facilities).
+Pit bitumen storage facilities are covered tanks with sloping or vertical side walls, consisting of one or more storage compartments. Above-ground bitumen storage tanks are freestanding vertical and horizontal steel tanks (with a capacity of 100 to 5,000 m3) manufactured in series in accordance with GOST 17032-71 and GOST 52910-2008. To ensure the operation of ground-based storage facilities, additional (reserve) capacity is required in the form of a drain tank, in which the bitumen is reheated to temperatures sufficient for pumping into the storage facility (when draining from railway tanks) or into the bitumen preparation workshop (when draining from storage facilities).
 Our company offers:
 • Development of the necessary sections of project documentation. • Support for the examination of project documentation. • Development of working documentation for the construction of the facility. • Development of construction technologies based on POS. • Implementation of construction and installation works based on the developed projects.
 
@@ -171,7 +171,7 @@ Furco method This technology is based on the method of gradual pulling of glass 
 21 страница
 
 The cooled glass strip is then cut into sheets of the required size using special glass cutting machines. The thickness of the glass sheet is adjusted by changing the speed at which the melt is pulled out of the furnace. Due to the peculiarity of manufacturing, such glass is called "pulled". Production of glass by the Furco method, despite the outdated technology, is still used today.
-Method of production Float The production of sheet glass using the float method is considered more modern than the pulling technology. The name of the method comes from the English word "float" - "to float". This method was first developed by the British glass company "Pilkington". The essence of the method is the molding of glass on the surface of molten metal. Liquid glass from the melting furnace enters a bath of molten tin. Since glass is lighter than tin, it spreads on its surface and gradually solidifies. The melting point of tin is much lower than that of glass, which allows the glass sheet to be formed on its surface. The thickness of the glass is controlled by the volume of the glass melt, and the shape of the sheet is determined by the design of the bath. Today, the float method is the main and most common method of glass sheet production in the world.
+Method of production Float The production of sheet glass using the float method is considered more modern than the pulling technology. The name of the method comes from the English word "float" - "to float". This method was first developed by the British glass company "Pilkington". The essence of the method is the molding of glass on the surface of molten steel. Liquid glass from the melting furnace enters a bath of molten tin. Since glass is lighter than tin, it spreads on its surface and gradually solidifies. The melting point of tin is much lower than that of glass, which allows the glass sheet to be formed on its surface. The thickness of the glass is controlled by the volume of the glass melt, and the shape of the sheet is determined by the design of the bath. Today, the float method is the main and most common method of glass sheet production in the world.
 
 
 22 страница
@@ -251,10 +251,16 @@ Depending on the degree of technical equipment and on the development of the tec
 
 commercial activities
 goods and services
-INDUSTRIAL FACILITIES CIVIL FACILITIES
-Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" as we produce
-Production and Technical Department (PTD) , Design Institute (DI) , FACTORY, Construction and Installation Department (CID), warranty and post-warranty maintenance service
-portfolio of realized projects for 30 years
+INDUSTRIAL FACILITIES 
+CIVIL FACILITIES
+Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" 
+
+Production Process
+Production and Technical Department (PTD) , 
+Design Institute (DI) , 
+FACTORY, 
+Construction and Installation Department (CID), warranty and post-warranty maintenance service
+portfolio of completed projects for 30 years
 
 
 
@@ -331,7 +337,7 @@ teplostroyproekt-s performs construction of logistics complexes made of LMC and 
 Types of logistics complexes
 Logistics complexes differ in their use: 1. Refrigerated warehouses - designed for storage of fruits, vegetables, other products and materials. 2. Warm warehouses - used to store products that are not suitable for long term refrigeration. 3. Multipurpose, specialized warehouses. 4. Fully/partially enclosed, tanks, bins.
 Stages of construction
-The construction of a transport and logistics complex is a labor-intensive process. It includes several stages: 1. Design. 2. Production of structures at the plant "Teplostroyproekt-S". 3. Transportation to the site. 4. Installation of metal frame. 5. Cladding of the building with sandwich panels. 6. Installation of doors, gates, windows, fencing structures. 7. Installation of engineering systems.
+The construction of a transport and logistics complex is a labor-intensive process. It includes several stages: 1. Design. 2. Production of structures at the plant "Teplostroyproekt-S". 3. Transportation to the site. 4. Installation of steel frame. 5. Cladding of the building with sandwich panels. 6. Installation of doors, gates, windows, fencing structures. 7. Installation of engineering systems.
 Upon completion of the work, the building is fully ready for operation. Erection takes on average up to 3 months. "Teplostroyproekt-S" performs a full range of works from design to commissioning and warranty service. The structures are made of high-quality materials using modern technologies. This guarantees their strength and durability.
 
 
@@ -373,9 +379,11 @@ The health complex building includes:
 commercial activities
 goods and services
 INDUSTRIAL FACILITIES CIVIL FACILITIES
-Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" as we produce
+Agricultural facilities ,
+Renovation, Reconstruction, and Modernization – Transition from Legacy Systems to “Smart” Solutions
 Production and Technical Department (PTD) , Design Institute (DI) , FACTORY, Construction and Installation Department (CID), warranty and post-warranty maintenance service
-portfolio of realized projects for 30 years
+
+portfolio of completed projects for 30 years
 
 
 
@@ -477,39 +485,44 @@ Tunnel structures are ideal for agricultural enterprises and farms growing crops
 commercial activities
 goods and services
 INDUSTRIAL FACILITIES CIVIL FACILITIES
-Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" as we produce
+Agricultural facilities Renovation, Reconstruction, and Modernization – Transition from Legacy Systems to “Smart” Solutions
 Production and Technical Department (PTD) , Design Institute (DI) , FACTORY, Construction and Installation Department (CID), warranty and post-warranty maintenance service
-portfolio of realized projects for 30 years
+portfolio of completed projects for 30 years
 
 
 53 страница
 
-Renovation, reconstruction, and modernization with conversion from old to new – “smart”
-Residential buildings before 
+Reconstruction and modernization of engineering systems, transitioning to “Smart” solutions
+Residential buildings 
+before 
 after
 Renovation of engineering systems, outdated structures, and materials improves energy efficiency through insulation and replacement of windows and doors. If necessary, the usable area of the house is expanded: extension, superstructure, attic construction. The facilities are also converted to turnkey smart solutions. Smart Building engineering systems management is a centralized automated system for controlling heating, ventilation, air conditioning, lighting, etc. It monitors the functioning of all systems in real time and provides timely notifications of emergencies.
 
 54 страница
 
-Commercial buildings before
+Commercial buildings 
+before
 after
 Comprehensive renovation of commercial buildings includes replacement of engineering systems, renovation of structures and finishing materials, insulation of facades, and installation of modern windows and doors. If necessary, the usable area is expanded by means of extensions, superstructures, and attics. To improve convenience and optimize costs, intelligent Smart Building systems are implemented. Automated control of heating, ventilation, lighting, and other systems, as well as real-time monitoring, reduce operating costs and increase the safety of the facility.
 
 55 страница
 
-School before
+School 
+before
 after
 The quality of school education largely depends on the conditions created in the educational institution. As part of this initiative, RIM GROUP offers to organize a space for the harmonious development of the younger generation. Reconstruction and modernization with a transition to smart solutions will optimize the learning process. As part of these changes, we propose to introduce interactive panels and digital laboratories to improve the quality of lessons, equip classrooms with an automated microclimate control system to create a comfortable environment, and organize modern recreation and coworking areas for students.
 
 56 страница
 
-Gardens before
+Gardens 
+before
 after
 Preschool education facilities are places where children undergo their initial socialization, and it is important that this process takes place in comfortable and safe conditions. RIM GROUP renovates and modernizes kindergartens, creating a comfortable and functional environment. The work includes replacing utilities, insulating facades, and installing energy-efficient windows and doors. We also modernize the premises: we renovate play and sleeping areas, equip buildings with smart ventilation, lighting, and security systems, and expand the building area if necessary.
 
 57 страница
 
-Sports complexes before
+Sports complexes 
+before
 after
 Sports are the foundation of a healthy nation, and modern sports facilities are essential for motivating people to exercise. RIM GROUP offers turnkey projects that can transform even abandoned buildings into comfortable and functional sports complexes that meet current standards. We renovate and modernize facilities with the implementation of smart solutions: automated lighting, heating, and ventilation control, video surveillance and access control systems for user safety, as well as intelligent management systems to improve energy efficiency and comfort.
 
@@ -536,13 +549,13 @@ The reconstruction and modernization of factories significantly increases produc
 commercial activities
 goods and services
 INDUSTRIAL FACILITIES CIVIL FACILITIES
-Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" as we produce
+Agricultural facilities Renovation, Reconstruction, and Modernization – Transition from Legacy Systems to “Smart” Solutions
 Production and Technical Department (PTD) , Design Institute (DI) , FACTORY, Construction and Installation Department (CID), warranty and post-warranty maintenance service
-portfolio of realized projects for 30 years
+portfolio of completed projects for 30 years
 
 
 62 страница
-HOW WE MANUFACTURE 
+Production Process 
 
 
 
@@ -561,7 +574,7 @@ Production and Technical Department (PTD)
 Design Institute (DI)
 1. Conducting engineering surveys
 2. Development and approval of design and estimate documentation
-3. Preparation of project implementation documentation (drawings, detailed metal structure drawings, cutting layout)
+3. Preparation of project implementation documentation (drawings, detailed steel structure drawings, cutting layout)
 
 
 FACTORY
@@ -646,9 +659,9 @@ Production and Technical Department (PTD)-  Project Procurement Group (PPG)
 
 
 Factory
-Section 1. Metalworking
-Area 1. Profile Metal Processing
-Area 2. Sheet Metal Processing
+Section 1: steel Processing
+• Area 1: Structural Steel Processing
+• Area 2: Sheet steel Processing
 
 
 
@@ -669,7 +682,7 @@ Production and Technical Department (PTD)
 Permitting, Technical, and As-built Documentation
 
 
-Finished Goods Warehouse
+Finished Products Storage
 
 
 Construction Schedule
@@ -685,12 +698,12 @@ General Construction Direction
 
 Construction and Installation Department (CID)
 Section 2
-Engineering Direction
+Engineering Solutions
 
 
 Construction and Installation Department (CID)
 Section 3
-Interior Fit-Out
+Interior Works
 
 
 Construction and Installation Department (CID)
@@ -698,8 +711,8 @@ Section 4
 Smart Home Management
 
 
-Electrical Installation Department (CGE)
-Electrical Installation, PNR (Pre-Commissioning and Commissioning)
+Guaranteed Power Supply System (GESS)
+Electrical Installation, Pre-Commissioning and Commissioning
 
 
 Construction and Author Supervision
@@ -756,14 +769,14 @@ READY-MADE SOLUTIONS FOR BUSINESS
 65 страница
 
 Factory
-Teplostroyproekt-S is a company that carries out all production processes of the Group. It occupies 70,000 square meters of production space. More than 100 units of advanced equipment are used in the manufacturing process, including shot blasting machines for metal cleaning, band saws, plasma cutting machines, rolling mills, and automated welding robots. The company provides full engineering support for projects, from the order acceptance stage to post-warranty service for the products sold.
+Teplostroyproekt-S is a company that carries out all production processes of the Group. It occupies 70,000 square meters of production space. More than 100 units of advanced equipment are used in the manufacturing process, including shot blasting machines for steel cleaning, band saws, plasma cutting machines, rolling mills, and automated welding robots. The company provides full engineering support for projects, from the order acceptance stage to post-warranty service for the products sold.
 
 66 страница
 
-FACTORY. EQUIPMENT USED IN THE FACTORY FOR PRODUCTION
+FACTORY. Equipment for Product Manufacturing
 
 QHT6910B SHOT BLASTING MACHINE
-Used to clean metal from rust and corrosion.
+Used to clean steel from rust and corrosion.
 TWO IRON-CUT S610R BAND SAW MACHINES
 
 KESMAK KMY BAND SAW MACHINE
@@ -781,39 +794,39 @@ Cross-section of the workpiece at 90°: mm circle 480 / square 480 x 480 / squar
 TWO PLASMA CUTTING MACHINES WITH 12X3M HPR260XD RAMS
 
 ONE PLASMA CUTTING MACHINE WITH 6X3M HPR260
-With a cutting capacity of sheet metal up to 60 mm thick.
+With a cutting capacity of sheet steel up to 60 mm thick.
 PIPE BENDING MACHINE
 
-With a cutting capacity of sheet metal up to 60 mm.
+With a cutting capacity of sheet steel up to 60 mm.
 
 With a bending capacity of pipes from ø42 mm to ø108 mm.
 
 SMALL ROLLING MILL ASM-S-170-20
-With sheet metal rolling capacity up to 6 mm thick and 2100 mm wide.
+With sheet steel rolling capacity up to 6 mm thick and 2100 mm wide.
 
 MEDIUM ROLLING MACHINE AKYAPAK AHS 30-10
-With sheet metal rolling capacity from 4 mm to 12 mm thick and up to 3100 mm wide.
+With sheet steel rolling capacity from 4 mm to 12 mm thick and up to 3100 mm wide.
 
 
 67 страница
 
-FACTORY. EQUIPMENT USED IN THE FACTORY FOR PRODUCTION
+FACTORY. Equipment for Product Manufacturing
 
 LARGE ROLLING MILL 4R HSS 30-400 SAHINLER
 
 SMALL GUILLOTINE HGL 3100X6
 
-With a cutting capacity of sheet metal up to 6 mm thick and up to 3100 mm wide.
+With a cutting capacity of sheet steel up to 6 mm thick and up to 3100 mm wide.
 
-With a cutting capacity of sheet metal up to 6 mm thick and up to 3100 mm wide.
+With a cutting capacity of sheet steel up to 6 mm thick and up to 3100 mm wide.
 
 LARGE GUILLOTINE MGH 3100X13
 
 SHEET BENDING PRESS APH 3106X120
 
-With a cutting capacity of sheet metal up to 13 mm thick and up to 3100 mm wide.
+With a cutting capacity of sheet steel up to 13 mm thick and up to 3100 mm wide.
 
-With a cutting capacity of sheet metal up to 13 mm thick and up to 3100 mm wide.
+With a cutting capacity of sheet steel up to 13 mm thick and up to 3100 mm wide.
 
 OVER 70 PIECES OF MIG 5000 SEMI-AUTOMATIC WELDING MACHINES
 Industrial welding inverter designed for connection to a three-phase network with a voltage of 380 volts, allowing you to work with welding currents from 20 to 500 amps.
@@ -828,8 +841,8 @@ Robotic complex for welding massive steel products up to 90 mm thick.
 68 страница
 
 FACTORY. PRODUCTION STAGES
-CLEANING OF SHEET AND PROFILE METAL 1 STAGE
-Before going into production, the metal is cleaned in a pass-through shot blasting machine (qht6910b), which prepares the product for the application of anti-corrosion protection (ACP) and ensures high quality welding, cutting, and drilling.
+CLEANING OF SHEET AND PROFILE steel 1 STAGE
+Before going into production, the steel is cleaned in a pass-through shot blasting machine (qht6910b), which prepares the product for the application of anti-corrosion protection (ACP) and ensures high quality welding, cutting, and drilling.
 SHOT BLASTING MACHINE
 
 
@@ -837,11 +850,11 @@ SHOT BLASTING MACHINE
 
 FACTORY. PRODUCTION STAGES
 
-METAL CUTTING
+steel CUTTING
 
 STAGE 2
 
-Shaped cutting of sheet and rolled metal, pipes, etc. is performed on three plasma cutting machines. For working with steel of various profiles, the work is performed on a Chinese-made Iron-Cut S-610R band saw machine, and sheet metal is cut on a Turkish-made guillotine.
+Shaped cutting of sheet and rolled steel, pipes, etc. is performed on three plasma cutting machines. For working with steel of various profiles, the work is performed on a Chinese-made Iron-Cut S-610R band saw machine, and sheet steel is cut on a Turkish-made guillotine.
 
 6X3M HPR260 PLASMA CUTTING MACHINE
 
@@ -863,7 +876,7 @@ The assembly and welding shops are capable of manufacturing a wide range of stru
 
 FACTORY. PRODUCTION STAGES
 STAGE
-AUTOMATED WELDING OF METAL STRUCTURES
+AUTOMATED WELDING OF STEEL STRUCTURES
 The workshop is equipped with an automatic welding tractor and 100 mechanized welding machines manufactured by world leaders in the welding industry. We employ highly qualified welders.
 AUTOMATIC WELDING TRACTOR
 
@@ -882,11 +895,11 @@ Helps determine the design accuracy of parts manufacturing. - In production: par
 
 FACTORY. PRODUCTION STAGES
 
-SHOT BLASTING CHAMBER FOR CLEANING STRUCTURES
+Enclosed Shot Blast Room for Structural Steel
 
 6 STAGES
 
-Final cleaning is carried out in the painting and loading shop: degreasing of areas contaminated with oil and grease, followed by repeated shot blasting. The shop is equipped with: - a manual shot blasting chamber; - an automatic shot blasting machine. This equipment allows for quick and high-quality preparation of metal surfaces.
+Final cleaning is carried out in the painting and loading shop: degreasing of areas contaminated with oil and grease, followed by repeated shot blasting. The shop is equipped with: - a manual shot blasting chamber; - an automatic shot blasting machine. This equipment allows for quick and high-quality preparation of steel surfaces.
 
 74 страница
 
@@ -924,7 +937,7 @@ CONSTRUCTION AND INSTALLATION MANAGEMENT
 TRANSPORTATION TO THE PREPARED SITE
 Delivery to the site is carried out by standard freight transport at no additional cost, as we plan solutions during the manufacturing process that will allow the structure to be delivered to the installation site.
 BOILER ROOM TRANSPORTATION
-TRANSPORTATION OF METAL STRUCTURES
+TRANSPORTATION OF STEEL STRUCTURES
 
 
 78 страница
@@ -973,9 +986,9 @@ The company's specialists train the customer's service personnel on how to opera
 commercial activities
 goods and services
 INDUSTRIAL FACILITIES CIVIL FACILITIES
-Agricultural facilities Renovation, reconstruction and modernization with conversion from old to new - "smart" as we produce
+Agricultural facilities Renovation, Reconstruction, and Modernization – Transition from Legacy Systems to “Smart” Solutions
 Production and Technical Department (PTD) , Design Institute (DI) , FACTORY, Construction and Installation Department (CID), warranty and post-warranty maintenance service
-portfolio of realized projects for 30 years
+portfolio of completed projects for 30 years
 
 
 83 страница
@@ -985,7 +998,7 @@ Ready-made solutions for business
 4.1. Industrial facilities
 4.2. Civil facilities
 4.3. Agricultural facilities
-4.4. Renovation, reconstruction, and modernization with conversion from old to new – “smart”
+4.4. Reconstruction and modernization of engineering systems, transitioning to “Smart” solutions
 
 Teplostroiproyekt-S factory
 

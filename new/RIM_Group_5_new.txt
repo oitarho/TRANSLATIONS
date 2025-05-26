@@ -204,7 +204,7 @@ They are used for building foundations on weak soils, in earthquake-prone region
 6. Strip foundation
 A monolithic strip foundation is a reinforced concrete contour arranged under all load-bearing walls of a building under construction, which allows the entire load of the building to be transferred evenly to the ground. Strip foundations are the most common and cheapest type of foundation for capital buildings.
 7. Screw piles
-A screw pile is a foundation for a house made of steel piles that are screwed into the ground and connected by a grillage. A screw pile is an element of a quick-to-build foundation that can be driven into almost any soil. Such piles are made of steel pipes of various diameters with special blades for screwing into the ground either manually or with special machines (metal thickness not less than 3 mm, blades not less than 4 mm).
+A screw pile is a foundation for a house made of steel piles that are screwed into the ground and connected by a grillage. A screw pile is an element of a quick-to-build foundation that can be driven into almost any soil. Such piles are made of steel pipes of various diameters with special blades for screwing into the ground either manually or with special machines (steel thickness not less than 3 mm, blades not less than 4 mm).
 8. Drilled piles
 Drilled piles are a type of support used for installing foundations. To install a support post, a hole is drilled, a casing pipe and a reinforced frame are lowered into it, and concrete is poured in.
 
@@ -366,7 +366,7 @@ Decorative plaster is an alternative to wallpaper, painting, and other finishing
 22страница
 
 9.2. Textured plaster
-The structural components are: stone chips (crushed or rounded), synthetic/ceramic granules, shell fragments, fibers of various origins, metal dust, etc.
+The structural components are: stone chips (crushed or rounded), synthetic/ceramic granules, shell fragments, fibers of various origins, steel dust, etc.
 9.3. Textured plaster
 Textured plaster is an excellent solution when you want to move away from classic finishing techniques. It offers a wealth of design possibilities and stands out against wallpaper, paneling, and paint. However, not every type of material is worth buying.
 9.4. Venetian plaster
@@ -389,8 +389,8 @@ Standing seam
 Types of roofing
 Cement-sand tiles
 
-Metal tiles
-Profiled sheet metal
+steel tiles
+Profiled sheet steel
 Soft roofing
 Slate
 Ceramic tiles
@@ -407,9 +407,9 @@ Torflay roofing
 24страница
 
 Roof
-A roof is a structural upper element of a building or structure that protects the interior from the external environment. A roof consists of elements (rafters, beams, trusses, etc.) and an upper enclosing part—the roof covering. Steel truss structures are prefabricated metal elements consisting of simple rolled steel parts (I-beams, angles, etc.) used as load-bearing metal structures for roofs of various types of buildings.
-1. Metal rafter structures
-Metal rafter systems are made of rolled steel, but for light, quickly erected buildings and structures (small hangars, stages, tents, pavilions, vegetable stores, etc.), aluminum rafters may be used.
+A roof is a structural upper element of a building or structure that protects the interior from the external environment. A roof consists of elements (rafters, beams, trusses, etc.) and an upper enclosing part—the roof covering. Steel truss structures are prefabricated steel elements consisting of simple rolled steel parts (I-beams, angles, etc.) used as load-bearing steel structures for roofs of various types of buildings.
+1. steel rafter structures
+steel rafter systems are made of rolled steel, but for light, quickly erected buildings and structures (small hangars, stages, tents, pavilions, vegetable stores, etc.), aluminum rafters may be used.
 1.1 Composite rafter system
 Main properties of a fiberglass roof truss system.
 Fiberglass has unique properties that make it one of the materials of the future.
@@ -459,10 +459,10 @@ A multi-gabled roof consists of several gabled elements connected into a single 
 
 
 27страница
-3. Metal roofing tiles
-Metal roofing tiles are sheet roofing materials whose main advantage is their strength and, as a result, durability.
-4. Profiled sheet metal
-Profiled sheet metal is a modern material with a protective coating. Steel sheets are profiled, which gives them a number of positive qualities.
+3. steel roofing tiles
+steel roofing tiles are sheet roofing materials whose main advantage is their strength and, as a result, durability.
+4. Profiled sheet steel
+Profiled sheet steel is a modern material with a protective coating. Steel sheets are profiled, which gives them a number of positive qualities.
 
 5. Slate
 
@@ -584,7 +584,7 @@ Armored windows
 
 7
 
-Metal-plastic windows
+steel-plastic windows
 
 4
 
@@ -618,7 +618,7 @@ Double-glazed windows with built-in blinds are an effective solution with an add
 2. Aluminum windows
 Aluminum windows are an indispensable solution when PVC windows cannot be installed for a number of reasons.
 3. Plastic windows
-A plastic window is a structure made of PVC material consisting of several elements (double-glazed window, metal profile, slopes, fittings, flashings).
+A plastic window is a structure made of PVC material consisting of several elements (double-glazed window, steel profile, slopes, fittings, flashings).
 
 
 
@@ -635,8 +635,8 @@ A plastic window is a structure made of PVC material consisting of several eleme
 
 36страница
 
-4. Metal-plastic windows
-Metal-plastic windows are modern translucent structures made of reinforced PVC profiles, which provide the necessary strength and rigidity of the product.
+4. steel-plastic windows
+steel-plastic windows are modern translucent structures made of reinforced PVC profiles, which provide the necessary strength and rigidity of the product.
 5. Sliding windows
 Sliding windows are often called English windows; when closed, they slide vertically up and down.
 6. Wooden windows
@@ -670,7 +670,7 @@ Smart doors 1
 7 Laminated
 doors
 
-Metal 2
+steel 2
 
 Glass doors
 
@@ -748,8 +748,8 @@ This term is used by specialists to refer to door leaves and entrance units equi
 
 1.6. Call panel
 1.7. Armor package
-2. Metal doors
-The main material used to manufacture doors is steel. Metal products can be single-leaf (when steel is only on the outside) and double-leaf. They can be covered with various options (veneer, solid wood, composite materials).
+2. steel doors
+The main material used to manufacture doors is steel. steel products can be single-leaf (when steel is only on the outside) and double-leaf. They can be covered with various options (veneer, solid wood, composite materials).
 41
 
 
@@ -869,7 +869,7 @@ Balconies are suspended platforms protruding from the vertical plane of the faca
 2.3. Balcony window
 This is a rather interesting design, but the technical solution is simply amazing. In appearance, it is a regular attic window located in the roof slope. But when opened, the handrail can be folded back to expand the space.
 3. Profiled sheet fence
-A profiled sheet fence is a continuous fence made of metal profiled sheets.
+A profiled sheet fence is a continuous fence made of steel profiled sheets.
 3.1. Wooden fence
 A wooden fence is a fairly light structure that does not require a foundation.
 4488
@@ -1133,8 +1133,8 @@ One of the most popular options for facade finishing is facing brick. This mater
 4. Natural stone
 Natural stone can confidently be considered one of the oldest building materials. People have used it extensively to build house foundations and decorate facades. Today, natural stone is often used to clad the walls and basements of buildings.
 5. Porcelain stoneware
-Porcelain stoneware for facades is a win-win option. Porcelain stoneware tiles are available in a wide range of colors, patterns, and formats. Facade porcelain stoneware tiles can be indistinguishable from natural stone, wood, concrete, or even metal.
-6. Metal siding
+Porcelain stoneware for facades is a win-win option. Porcelain stoneware tiles are available in a wide range of colors, patterns, and formats. Facade porcelain stoneware tiles can be indistinguishable from natural stone, wood, concrete, or even steel.
+6. steel siding
 These are profiled panels made of galvanized steel sheet covered with a special protective decorative layer.
 6622
 
@@ -1154,7 +1154,7 @@ These are profiled panels made of galvanized steel sheet covered with a special 
 7. Thermal panels
 Thermal panels are composite panels consisting of an insulating layer, a foil film, and a decorative outer layer.
 8. Fiber cement panels
-Fiber siding or fiber cement panels are exterior composite cladding materials. These sheets are based on cement reinforced with fiber reinforcement with mineral or cellulose additives. They are installed using ventilated facade technology, on top of the lathing. They can be installed on a metal or wooden frame, depending on the type of system chosen.
+Fiber siding or fiber cement panels are exterior composite cladding materials. These sheets are based on cement reinforced with fiber reinforcement with mineral or cellulose additives. They are installed using ventilated facade technology, on top of the lathing. They can be installed on a steel or wooden frame, depending on the type of system chosen.
 9. Facade decor
 Fibersiding or fiber cement panels are an exterior composite cladding material. These sheets are based on cement reinforced with fiber reinforcement with mineral or cellulose additives.
 63
@@ -1697,7 +1697,7 @@ Instantaneous gas plate water heater
 
 3
 
-ENGINEERING DIRECTION hot water supply
+Engineering Solutions hot water supply
 
 Electric boilers
 
@@ -1719,7 +1719,7 @@ Copper pipes for hot and cold water supply
 
 8
 
-Metal-plastic pipes for hot and cold water supply
+steel-plastic pipes for hot and cold water supply
 
 9
 
@@ -1877,7 +1877,7 @@ Recuperator
 
 6 Extractor hoods
 
-ENGINEERING DIRECTION VENTILATION
+Engineering Solutions VENTILATION
 -----------------------------
 
 
@@ -1914,7 +1914,7 @@ Split system 4
 
 5 Monitoring and dispatching control system
 
-ENGINEERING DIRECTION REFRIGERATION
+Engineering Solutions REFRIGERATION
 
 The company's employees are highly qualified specialists in the field of engineering and construction of industrial and commercial refrigeration systems. We offer our customers a wide range of services in the field of engineering and construction of industrial and commercial refrigeration systems.
 
@@ -2022,7 +2022,7 @@ Hydromagnetic purification system
 
 5
 
-ENGINEERING DIRECTION WATER PURIFICATION
+Engineering Solutions WATER PURIFICATION
 
 -----------------------------
 
@@ -2060,7 +2060,7 @@ Open/external storm drainage system
 
 3
 
-ENGINEERING DIRECTION DRAINAGE
+Engineering Solutions DRAINAGE
 
 -----------------------------
 
@@ -3115,7 +3115,7 @@ Plates
 Plates are one of the main elements of table setting. They come in different types and sizes, each designed for a specific type of dish.
 
 Tableware
-A tableware set is a set of tableware, tea or coffee dishes that contains the essential items for a certain number of people. Tableware sets are divided into dinner, dessert, tea and coffee sets. They can be made of different materials, such as porcelain, earthenware, glass and metal.
+A tableware set is a set of tableware, tea or coffee dishes that contains the essential items for a certain number of people. Tableware sets are divided into dinner, dessert, tea and coffee sets. They can be made of different materials, such as porcelain, earthenware, glass and steel.
 
 Serving dishes
 
@@ -3715,7 +3715,7 @@ Complete the look of your office with details that reflect your personality and 
 176стр.
 
 Study
-A study in your home is a space where status, style, and functionality come together in perfect harmony. The right furniture will create a business-like atmosphere and a sense of comfort, whether it's a classic desk made of fine wood or a modern loft-style workspace with metal elements. Our range includes solutions for all preferences, from refined classics to avant-garde and Scandinavian minimalism. Each design solution is aimed at creating the ideal conditions for productive work and comfortable relaxation in your office.
+A study in your home is a space where status, style, and functionality come together in perfect harmony. The right furniture will create a business-like atmosphere and a sense of comfort, whether it's a classic desk made of fine wood or a modern loft-style workspace with steel elements. Our range includes solutions for all preferences, from refined classics to avant-garde and Scandinavian minimalism. Each design solution is aimed at creating the ideal conditions for productive work and comfortable relaxation in your office.
 
 Furniture
 Office furniture is the foundation of your personal space, where comfort and style go hand in hand with functionality. In our range, you will find everything you need to create the perfect home office. Stylish sofas and armchairs provide comfort for relaxation or meetings with guests, adding a touch of elegance and coziness to the interior. We offer solutions for any style, whether classic, modern minimalism, or loft—each piece of furniture will emphasize your taste and status.
@@ -4591,7 +4591,7 @@ MERIDIAN SMART METERS FOR WI-FI TRANSMISSION (SMART DEVICE + 2 PULSE WATER METER
 A set consisting of a Wi-Fi controller and two meters with pulse output allows you to automate the transmission of meter readings to the management company. In addition, this module allows you to connect 6 more devices, as it has 8 outputs, which means that you have a complete device for your smart home system. The smart water meter kit also includes a leak sensor — a reliable and effective tool for protecting your home or office from possible leaks.
 The sensor is easy to install and requires no special equipment. Meridian smart devices are:
 AQARA FLOOD SENSOR WATER LEAK SENSOR
-The wireless sensor will alert you to water leaks in time and help save your furniture. There are two metal contacts at the bottom of the sensor. When they come into contact with water, the sensor sends a signal to the Aqara Hub. The hub activates the alarm and sends a notification to your smartphone. The IP67 protection standard means that the sensor is completely protected from dust and water when submerged to a depth of 1 meter for up to half an hour. If you add a smart socket or Aqara switch to the sensor, it can control the valve through which water flows. Then your smart home will not only notify you of an accident, but also shut off the water itself.
+The wireless sensor will alert you to water leaks in time and help save your furniture. There are two steel contacts at the bottom of the sensor. When they come into contact with water, the sensor sends a signal to the Aqara Hub. The hub activates the alarm and sends a notification to your smartphone. The IP67 protection standard means that the sensor is completely protected from dust and water when submerged to a depth of 1 meter for up to half an hour. If you add a smart socket or Aqara switch to the sensor, it can control the valve through which water flows. Then your smart home will not only notify you of an accident, but also shut off the water itself.
 
 -----------------------------------------
 

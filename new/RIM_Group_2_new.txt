@@ -4,13 +4,13 @@ PAGES 5 - 102 	 COMMERCIAL ACTIVITIES GOODS AND SERVICES
 PAGES 5 - 95 	 TRIGENERATION AND VENTILATION
 PAGES 10 - 27 	 POWER SUPPLY 
 PAGES 28 - 35 	 GAS SUPPLY 
-PAGES 36 - 39 	 DIESEL FARMING 
+PAGES 36 - 39 	 Diesel Fuel Storage Facility 
 PAGES 40 - 61 	 HEAT SUPPLY 
 PAGES 74 - 79 	 COLD WATER SUPPLY
 PAGES 80 - 87 	 VENTILATION 
 PAGES 88 - 95    REFRIGERATION
 PAGES 96 - 101   ENGINEERING SYSTEMS, THEIR RECONSTRUCTION AND MODERNIZATION WITH CONVERSION TO "SMART SOLUTIONS"
-PAGES 102 - 106  HOW WE MANUFACTURE
+PAGES 102 - 106  Production Process
 PAGES 104		 PRODUCTION AND TECHNICAL DEPARTMENT 
 PAGES 105  		 DESIGN INSTITUTE 
 PAGES 106-114    FACTORY 
@@ -43,7 +43,7 @@ PORTFOLIO OF COMPLETED CONTRACTS
 
 Trigeneration - the combined production of electricity, heat and cold - is a new generation of technological solutions for increasing the efficiency of gas piston units through the additional option of heat utilization. By utilizing the excess heat of the generating unit during the non-heating season, with the help of additional equipment - absorption refrigeration unit (ABHM) - cold is produced, which is then used for air conditioning of facilities and industrial process needs.
 
-Scope of application: the heat of trigeneration units is used for heating of objects, and the heat of exhaust gases and cooling jacket generated during operation of CCGT or DGU can be used for production of hot water, steam, cold (trigeneration) or in technological processes of industrial enterprises, involving the use of large amounts of thermal energy. In addition, such equipment is successfully used as emergency power sources during outages in the public power grid.
+Scope of application: the heat of trigeneration units is used for heating of facilities, and the heat of exhaust gases and cooling jacket generated during operation of CCGT or DGU can be used for production of hot water, steam, cold (trigeneration) or in technological processes of industrial enterprises, involving the use of large amounts of thermal energy. In addition, such equipment is successfully used as emergency power sources during outages in the public power grid.
 Ventilation provides sanitary and hygienic conditions in the room and a favorable effect on human health. It is important that the ventilation complies with the requirements of technological processes, building structures of buildings, storage technologies. TEPLOSTROYPROEKT-S sells elements of ventilation systems as its own production and equipment of the largest manufacturers.
 Scope of application: provision and purification of supply air from dust, gaseous compounds, molecular contaminants, bacteria and viruses.
 
@@ -122,7 +122,7 @@ electricity GAS SUPPLY DIESEL HEAT SUPPLY COLD WATER SUPPLY VENTILATION COLD WAT
 
 10 Страница
 
-Electricity is the main element of life support systems, that is why the company offers ready-made solutions for power supply of objects. Solar and wind power plant equipment is able to provide autonomous power supply to residential buildings, as well as reduce the costs of industrial enterprises to provide lighting for the territory. The proposed power supply systems for industrial facilities include only modern equipment with high energy efficiency. Advantages: - high level of efficiency of equipment and elements of power supply systems; - reduction of electricity costs; - absence of power outages in case of an accident on the power line; - possibility of autonomization of the power supply system of the object and independence from centralized power supply; - long service life; - simplicity, stability, reliability of the design and its installation; - creation of turnkey project solutions. Scope of application: power supply of residential houses, buildings, offices, large industrial facilities.
+Electricity is the main element of life support systems, that is why the company offers ready-made solutions for power supply of facilities. Solar and wind power plant equipment is able to provide autonomous power supply to residential buildings, as well as reduce the costs of industrial enterprises to provide lighting for the territory. The proposed power supply systems for industrial facilities include only modern equipment with high energy efficiency. Advantages: - high level of efficiency of equipment and elements of power supply systems; - reduction of electricity costs; - absence of power outages in case of an accident on the power line; - possibility of autonomization of the power supply system of the facility and independence from centralized power supply; - long service life; - simplicity, stability, reliability of the design and its installation; - creation of turnkey project solutions. Scope of application: power supply of residential houses, buildings, offices, large industrial facilities.
 
 
 
@@ -163,9 +163,9 @@ Diesel cogeneration plant for generating electricity and heat (80-90°C hot wate
 
 14 Страница
 
-Transmission line support Type: Intermediate straight Material: metal/concrete Height: 4-20m Diameter: 102-114
-Transmission line support Type: Intermediate anchor-angle Material: metal/concrete Height: 4-20m Diameter: 102-114
-Transmission line support Type: Multifaceted Material: metal/concrete Height: 4-20m Diameter: 102-114
+Transmission line support Type: Intermediate straight Material: steel/concrete Height: 4-20m Diameter: 102-114
+Transmission line support Type: Intermediate anchor-angle Material: steel/concrete Height: 4-20m Diameter: 102-114
+Transmission line support Type: Multifaceted Material: steel/concrete Height: 4-20m Diameter: 102-114
 
 
 
@@ -239,7 +239,7 @@ Degree of protection against dust and moisture: IP 54
 Maximum current: 50A
 Voltage: 220V/380V
 Distribution/inventory cabinet HxWxH: 400x300x200 mm
-Execution: Metal cabinets are durable and resistant to damage, installed in residential premises, offices and factory plants.
+Execution: steel cabinets are durable and resistant to damage, installed in residential premises, offices and factory plants.
 
 
 
@@ -266,7 +266,7 @@ Manufacturer: RIM Number of phases: 1/3
 Degree of protection against dust and moisture: IP 54
 Maximum current: 50A Voltage: 220V/380V
 Switchgear/inventory cabinet HxWxH: 400x300x200 mm
-Design: Metal cabinets are durable and resistant to damage, installed in residential premises, offices and factory plants.
+Design: steel cabinets are durable and resistant to damage, installed in residential premises, offices and factory plants.
 
 
 
@@ -370,7 +370,7 @@ electricity GAS SUPPLY DIESEL HEAT SUPPLY COLD WATER SUPPLY VENTILATION COLD WAT
 
 
 29 Страница
-Gas supply is one of the most important stages of a comfortable and cost-effective way of providing an object with heat. Our company offers both ready-made solutions for autonomous and main gas supply of objects and elements of gas supply systems. When creating the project of gas supply systems, the company's engineers implement innovative solutions that increase the energy efficiency of the system, which reduces the cost of operation and maintenance of equipment. Advantages of working with our plant: - experience of more than 25 years in the gas equipment market; - modern plant using advanced technologies in the production and construction of gas supply systems; - warranty and post-warranty service; - creation of gas supply systems that fully meet the design requirements; - high service life of the built systems; - creation of turnkey project solutions. Scope of application: heating systems for industrial and civil facilities.
+Gas supply is one of the most important stages of a comfortable and cost-effective way of providing an facility with heat. Our company offers both ready-made solutions for autonomous and main gas supply of facilities and elements of gas supply systems. When creating the project of gas supply systems, the company's engineers implement innovative solutions that increase the energy efficiency of the system, which reduces the cost of operation and maintenance of equipment. Advantages of working with our plant: - experience of more than 25 years in the gas equipment market; - modern plant using advanced technologies in the production and construction of gas supply systems; - warranty and post-warranty service; - creation of gas supply systems that fully meet the design requirements; - high service life of the built systems; - creation of turnkey project solutions. Scope of application: heating systems for industrial and civil facilities.
 
 
 
@@ -465,9 +465,9 @@ REFRIGERATION
 
 Brief description
 
-Diesel farming is a set of equipment and systems designed to store, purify and deliver diesel fuel. It includes storage tanks, fuel pumps, filters, pipelines and control systems. Such facilities ensure uninterrupted operation of boiler houses and diesel generator sets, guaranteeing stable power supply.
+Diesel Fuel Storage Facility is a set of equipment and systems designed to store, purify and deliver diesel fuel. It includes storage tanks, fuel pumps, filters, pipelines and control systems. Such facilities ensure uninterrupted operation of boiler houses and diesel generator sets, guaranteeing stable power supply.
 
-Advantages: - High reliability and autonomous operation. - Possibility of long-term fuel storage without loss of quality. - Versatility of application for various objects. - Reduction of dependence on centralized power grids.
+Advantages: - High reliability and autonomous operation. - Possibility of long-term fuel storage without loss of quality. - Versatility of application for various facilities. - Reduction of dependence on centralized power grids.
 
 Scope of application: Diesel power is widely used in boiler houses for heating industrial and residential facilities, as well as in diesel-generator sets for backup or main power supply. It is especially in demand at remote sites, in emergency power supply systems and at industrial enterprises where high reliability and autonomy are required.
 
@@ -486,7 +486,7 @@ DIESEL FUEL TANKS
 Plastic tank for diesel fuel is a modern and reliable solution for storing fuel in boiler rooms. It is made of high quality polyethylene, resistant to aggressive media, which makes it an ideal choice for storing diesel fuel. The tanks have a number of advantages that
 make them in demand in the boiler house industry.
 
-Advantages of plastic tanks: 1. Corrosion resistance: Unlike metal tanks, plastic tanks are not prone to corrosion, which greatly increases their service life. 2. Lightness and mobility: Plastic tanks are lightweight, making them easy to transport and install. 3. Airtightness: The tanks are equipped with airtight lids and spigots, which prevents fuel leakage and evaporation. 4. Temperature resistance: The material of the tank is resistant to high and low temperatures, which is important for operation in the boiler room. 5. Easy maintenance: Plastic containers are easy to clean and do not require special maintenance. 6. Safety: Plastic does not create sparks, which reduces the risk of fire. 7. Durability: Plastic containers have a service life of up to 50 years if used properly.
+Advantages of plastic tanks: 1. Corrosion resistance: Unlike steel tanks, plastic tanks are not prone to corrosion, which greatly increases their service life. 2. Lightness and mobility: Plastic tanks are lightweight, making them easy to transport and install. 3. Airtightness: The tanks are equipped with airtight lids and spigots, which prevents fuel leakage and evaporation. 4. Temperature resistance: The material of the tank is resistant to high and low temperatures, which is important for operation in the boiler room. 5. Easy maintenance: Plastic containers are easy to clean and do not require special maintenance. 6. Safety: Plastic does not create sparks, which reduces the risk of fire. 7. Durability: Plastic containers have a service life of up to 50 years if used properly.
 
 
 
@@ -522,7 +522,7 @@ REFRIGERATION
 
 The heat supply of the facility is a heating or steam supply system located in one technical room. Boiler houses are connected to consumers by means of heating mains and/or steam lines. The main device of the boiler room is a steam or hot-water boiler, which is manufactured in our factory. All elements of the heat supply system of the facility have high efficiency and meet modern standards of energy efficiency.
 
-Advantages: - high efficiency of boilers manufactured at our plant; - reduction of the cost of heat energy of the object; - compact design due to the introduction of innovative solutions; - autonomy and independence of centralized heat supply; - minimum commissioning time; - creation of turnkey design solutions.
+Advantages: - high efficiency of boilers manufactured at our plant; - reduction of the cost of heat energy of the facility; - compact design due to the introduction of innovative solutions; - autonomy and independence of centralized heat supply; - minimum commissioning time; - creation of turnkey design solutions.
 
 Scope of application: heating of residential houses, offices, buildings,
 
@@ -539,7 +539,7 @@ Heat supply to the facility
 5. Hot water accumulator tank.
 6. Central heating station.
 
-Scheme of heat supply of the object
+Scheme of heat supply of the facility
 
 
 
@@ -720,7 +720,7 @@ Economizers allow heat that would normally be lost with the flue gases to be uti
 51 Страница
 
 DOUBLE BOILERS OF EXTERNAL PLACEMENT.
-Outdoor boilers. They are carried out in strict compliance with the Customer's technical specifications and are designed taking into account modern requirements for energy efficiency and safety. Such equipment is a good substitute for block-modular boiler house for those objects where placement of BMK is impossible.
+Outdoor boilers. They are carried out in strict compliance with the Customer's technical specifications and are designed taking into account modern requirements for energy efficiency and safety. Such equipment is a good substitute for block-modular boiler house for those facilities where placement of BMK is impossible.
 
 It has a huge advantage over placing the boiler room in the walls of the building, as there is no risk of gas leakage into the room and its ignition. Power - from 70 kW to 6 mW. The boiler is completed with burner devices, fuel line, control automatics, circulation pumps, shut-off and safety valves. Filling of the Boiler of outdoor placement can be absolutely different. The mandatory list of equipment depends on the region of installation. Optionally it is possible to perform with fixing the supporting mast of chimneys to the boiler frame.
 
@@ -993,7 +993,7 @@ Scope of application: Water supply systems for private houses, country districts
 Individual heating unit
 Manufacturer: RIM Thermal capacity from 10 to 60000 kW Heating side - steam, water, thermal oil. Heated side - water, glycol, petroleum products and other media.
 Block heating station
-Block heat point (BTP) is a compact modular unit designed to provide heat supply and regulate the parameters of the coolant in heating, ventilation and hot water supply systems. BTP is manufactured in factory conditions, which ensures high quality of assembly and minimal installation time at the object. is an optimal solution for residential, commercial and industrial facilities.
+Block heat point (BTP) is a compact modular unit designed to provide heat supply and regulate the parameters of the coolant in heating, ventilation and hot water supply systems. BTP is manufactured in factory conditions, which ensures high quality of assembly and minimal installation time at the site. is an optimal solution for residential, commercial and industrial facilities.
 Plate heat exchangers
 Power (kW): 6-500 kW Efficiency: 92% Design: 16/25 bar.
 Solar DHW collector
@@ -1421,7 +1421,7 @@ Block-modular refrigeration plants types:
 
 92 Страница
 
-OBJECT REFRIGERATION
+FACILITY REFRIGERATION
 Absorption lithium bromide chiller (absorption chiller) Design: horizontal/vertical. Service life: at least 15 years. Optional: possible use in trigeneration system.
 Air-cooled condenser chiller for outdoor installation, based on screw compressors Design: horizontal/vertical. Service life: at least 15 years. Optional: possible use in trigeneration system.
 DUCT INDOOR UNIT
@@ -1575,7 +1575,7 @@ PRODUCTION AND TECHNICAL DEPARTMENT
 
 2. GENERATES SPECIFICATION SCHEDULES
 
-3. CALCULATES THE COST OF THE OBJECT
+3. CALCULATES THE COST OF THE PROJECT
 
 4. PREPARES THE PROJECT OF PRODUCTION WORKS
 
@@ -1606,11 +1606,11 @@ design institute
 
 2. TRIGENERATION AND VENTILATION, ENGINEERING SYSTEMS, THEIR RECONSTRUCTION AND MODERNIZATION WITH CONVERSION TO "SMART" SOLUTIONS
 
-3. METAL STRUCTURES AND BRIDGE CONSTRUCTION
+3. Steel Structure Fabrication & Bridge Construction
 
 4. READY-MADE BUSINESS SOLUTIONS
 
-5. HOUSE COMPLETION, PROJECT COMPLETION, ONLINE STORE
+5. Turnkey Project and Home Package, ONLINE STORE
 
 
 
@@ -1623,7 +1623,7 @@ design institute
 
 Factory
 "Teplostroyproyekt-S" is the company that carries out all production processes of the Group of Companies. It occupies 70,000 square meters of production space.
-More than 100 units of advanced equipment are involved in the manufacture of products: metal cleaning shotguns, band saws, plasma cutting machines, rolling machines, automated welding robots.
+More than 100 units of advanced equipment are involved in the manufacture of products: steel cleaning shotguns, band saws, plasma cutting machines, rolling machines, automated welding robots.
 The company provides full engineering support of projects - from the application acceptance stage to post-warranty service of the realized products.
 
 
@@ -1634,7 +1634,7 @@ The company provides full engineering support of projects - from the application
 Factory. EQUIPMENT USED AT THE Factory TO PRODUCE PRODUCTS
 
 SHOT BLASTING MACHINE QHT6910B
-Used for cleaning metal from rust and corrosion.
+Used for cleaning steel from rust and corrosion.
 TWO BAND SAWS IRON-CUT S610R
 
 BAND SAW MACHINE KESMAK KMY
@@ -1656,18 +1656,18 @@ Workpiece cross-section at 90°: mm circle 480 / square 480 x 480 / square 650 x
 TWO PLASMA CUTTING MACHINES WITH DIMENSIONS 12X3MHPR260XD
 
 ONE PLASMA CUTTING MACHINE 6X3MHPR260XD
-With the capacity of cutting sheet metal up to 60 mm thick.
+With the capacity of cutting sheet steel up to 60 mm thick.
 PIPE BENDING MACHINE
 
-With cutting capacity of sheet metal up to 60 mm.
+With cutting capacity of sheet steel up to 60 mm.
 
 With pipe bending capacity from ø42mm to ø108mm.
 
 SMALL ASM-S-170-20 ROLL FORMING MACHINE
-With the capacity to roll sheet metal up to 6 mm thick and 2100 mm wide.
+With the capacity to roll sheet steel up to 6 mm thick and 2100 mm wide.
 
 MEDIUM SHEETER AKYAPAK AHS 30-10
-With the capacity to roll sheet metal from 4 mm to 12 mm thick and up to 3100 mm wide.
+With the capacity to roll sheet steel from 4 mm to 12 mm thick and up to 3100 mm wide.
 
 
 
@@ -1677,23 +1677,23 @@ With the capacity to roll sheet metal from 4 mm to 12 mm thick and up to 3100 mm
 
 108 Страница
 
-FACTORY. EQUIPMENT USED IN THE FACTORY FOR THE PRODUCTION OF PRODUCTS
+FACTORY. Equipment for Product Manufacturing
 
 LARGE SHEETER 4R HSS 30-400 SAHINLER
 
 SMALL GUILLOTINE HGL 3100X6
 
-With cutting capacity for sheet metal up to 6 mm thick and up to 3100 mm wide.
+With cutting capacity for sheet steel up to 6 mm thick and up to 3100 mm wide.
 
-With cutting capacity for sheet metal up to 6 mm thick and up to 3100 mm wide.
+With cutting capacity for sheet steel up to 6 mm thick and up to 3100 mm wide.
 
 LARGE GUILLOTINE MGH 3100X13
 
 SHEET BENDING PRESS APH 3106X120
 
-With cutting capacity of sheet metal up to 13 mm thick and up to 3100 mm wide.
+With cutting capacity of sheet steel up to 13 mm thick and up to 3100 mm wide.
 
-With the capacity to cut sheet metal up to 13 mm thick and up to 3100 mm wide.
+With the capacity to cut sheet steel up to 13 mm thick and up to 3100 mm wide.
 
 MORE THAN 70 PIECES OF WELDING SEMIAUTOMATIC WELDING MACHINES SVAROG MIG 5000
 Industrial welding inverter, designed for connection to a three-phase network with a voltage of 380 volts, allowing you to work with welding current from 20 to 500 amperes.
@@ -1717,10 +1717,10 @@ FACTORY. PRODUCTION STAGES
 
 1 STAGE
 
-METAL CUTTING
+steel CUTTING
 
-Shaped cutting of sheet and rolled metal, pipes, chamfering, etc. is performed on two plasma cutting machines. To work with steel and non-ferrous metal alloys of various profiles band saws are used, and for cutting sheet and coil metal - guillotine machines.
-metal - guillotine
+Shaped cutting of sheet and rolled steel, pipes, chamfering, etc. is performed on two plasma cutting machines. To work with steel and non-ferrous steel alloys of various profiles band saws are used, and for cutting sheet and coil steel - guillotine machines.
+steel - guillotine
 
 PLASMA CUTTING MACHINE 6X3M HPR260
 
@@ -1739,9 +1739,9 @@ FACTORY. PRODUCTION STAGES
 
 STEP 2
 
-METAL BENDING
+steel BENDING
 
-In this stage, a hydraulic press brake is used for thick sheet metal and for the production of variable radius parts in an automatic work cycle. Manual sheet metal bending machines and metal bending rollers are used for thin sheet metal and to produce parts with small diameters.
+In this stage, a hydraulic press brake is used for thick sheet steel and for the production of variable radius parts in an automatic work cycle. Manual sheet steel bending machines and steel bending rollers are used for thin sheet steel and to produce parts with small diameters.
 
 ELECTROMECHANICAL ROLLERS. 3 ROLLERS ASM-S 200-20/7
 
@@ -1915,10 +1915,10 @@ Kedr" complex Astrakhan Oblast
 
 122 Страница
 
-WE HAVE ALSO REALIZED BOILER PLANTS
-FOR THE FOLLOWING OBJECTS:
+WE HAVE ALSO CONSTRUCTED BOILER PLANTS
+FOR THE FOLLOWING PROJECTS:
 
-Object
+PROJECT
 Government Complex Khazar Stadium School District Hospital Cannery Heating networks School Heating networks Border outpost Television Oncological hospital School School Heating networks President's residence Children's rehabilitation center School Hospital Military unit District administration School
 School
 
@@ -1946,10 +1946,10 @@ RNO-Alania, Prigorodniy district, Gizel village
 
 123 Страница
 
-WE HAVE ALSO REALIZED BOILER PLANTS
-FOR THE FOLLOWING OBJECTS:
+WE HAVE ALSO CONSTRUCTED BOILER PLANTS
+FOR THE FOLLOWING PROJECTS:
 
-Object
+PROJECT
 
 Location Capacity, kW
 
@@ -1972,32 +1972,32 @@ Chechen Republic, Grozny, Mayakovskogo str.
 ABMK
 Design and construction of ABMK
 
-г. Grozny, Guryevskaya St., Astrakhan, Kramatorskaya St.
+ Grozny, Guryevskaya St., Astrakhan, Kramatorskaya St.
 
 Construction of ABMK-12000
 
-г. Astrakhan, Kulikova str.
+ Astrakhan, Kulikova str.
 
 Construction of block-module boiler house ABMK-2000
 OAO PSK Stroitel Astrakhani
 
-г. Astrakhan city Astrakhan city. Astrakhan
+ Astrakhan city Astrakhan city. Astrakhan
 
 OAO PSK Stroitel Astrakhani
 
-г. Astrakhan
+ Astrakhan
 
 Construction of a combined block-modular boiler house
 Construction of a complete automated block-module boiler plant
 "Armavirskiy Khleboproduct Supply of ABMK boiler plant
 
-г. Astrakhan region g. Novorossiysk city. Novokubansk
+ Astrakhan region g. Novorossiysk city. Novokubansk
 
 LLC Dzetta GroupDelivery of ABMK boiler houses
 Reconstruction of CJSC "Mezhregion Torg Invest" production facilities
 
 Krasnodar region, Temryuksky district
-г. Kostroma
+ Kostroma
 
 10 000 15 000 32 000 24 000 24 000 4 230 12 000 2 000 13 400 12 000 6 000 23 000 300 180, 140, 160, 250, 400, 180, 500, 500, 180, 300, 180, 300, 140 20 т/ч
 
@@ -2013,19 +2013,18 @@ Krasnodar region, Temryuksky district
 
 124 Страница
 
-РЕГИОНАЛЬНЫЕ ПРЕДСТАВИТЕЛЬСТВА RIM GROUP
+REGIONAL REPRESENTATIVES OF RIM GROUP
+Company TEPLOSTROYPROYEKT-S
+Chechen Republic, S. Valerik, Gairbekova St., 1
 
-Компания ТЕПЛОСТРОЙПРОЕКТ-С ЧР, С. Валерик, Ул. Гайрбекова, Д. 1
 
-Офис: ЧР, Г. Грозный, ул. Жуковского, Д. 111
+Office: Chechen Republic, Grozny, Zhukovskogo St., 111
 
-ЧР, г. Грозный, ул. Умара Димаева
-д. 14, 14 этаж. Офис RIM GROUP
+Chechen Republic, Grozny, Umar Dimaev St., 14, 14th floor, RIM GROUP Office
+(“Grozny-City” complex)
 
-г. Москва
+Moscow
 
-г. Стамбул
-
-ТЕЛ.: 8(800)333-93-83 WWW.RIMGROUP.RU INFO@RIMGROUP.RU
+Istanbul
 
 
